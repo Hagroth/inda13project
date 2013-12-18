@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Player()
+comment1.params=room
+comment1.target=void\ move(Room)
+comment1.text=\r\n\ Moves\ directly\ to\ the\ specified\ room.\r\n\ @param\ The\ room\ where\ the\ player\ should\ move.\r\n
+comment2.params=
+comment2.target=Room\ getCurrentRoom()
+comment2.text=\r\n\ Returns\ the\ current\ location\ of\ the\ player.\r\n\ @return\ The\ current\ room\ of\ the\ player.\r\n
+numComments=3
